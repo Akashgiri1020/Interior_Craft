@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Aclonica);
+
+#heading-1{
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    color: #525252;
+}
+#heading-2{
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    color: #CB572C;
+}
+#heading-3{
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 135px;
+}
+.home-body{
+    padding-left:5%;
+    margin-top:8%;
+    background-color: #F6F4F1;
+}
+
+#page_break{
+    margin-top: 5%;
+    width:100%;
+}
+@media only screen and (max-width: 1024px){
+    .home-body{
+        padding-left:5%;
+        margin-top:17%;
+        background-color: #F6F4F1;
+        padding-right: 2%;
+        
+    }
+    #heading-1{
+        font-family: 'Aclonica';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        color: #525252;
+        padding-left:3%;
+    }
+    #heading-2{
+        font-family: 'Aclonica';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 76px;
+        color: #CB572C;
+        padding-left:3%;
+    }
+    #heading-3{
+        font-family: 'Aclonica';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 135px;
+        padding-left:3%;
+    }
+
+}

@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css?family=Mukta);
+
+.about-us{
+        padding-left:5%;
+        margin-top:8%;
+        background-color: #F6F4F1;
+}
+
+.content{
+    background:url("../Images/aboutus-back.jpg");
+}
+        
+.content h1{
+    font-family: "Mukta";
+    font-size:3rem;
+    text-align: center; 
+    color: white;
+ 
+}
+.content h4{
+    font-family: "Mukta";
+    font-size:1.25rem;
+    font-weight: 700;
+    text-align: center; 
+    color: white;
+}
+.content p{
+    border: 0;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+    text-align: center;
+    color: white;
+}
+.about-us-box{
+    display: flex;
+    
+}
+
+.about-us-box-1{
+    border:2px;
+    width: 50%;
+    background-color: blue;
+    margin-right: 5%;
+    box-shadow:1px 1px 5px rgba(0, 0, 0, 0.5); 
+}
+
+.about-us-box-1 h3{
+    font-size: 1.75rem;
+    font-weight: 700;
+    text-align: center;
+}
+.about-us-box-2 h3{
+    font-size: 1.75rem;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+    background-color: blue;
+}
+.about-us-box-2{
+    border:2px;
+    width: 50%;
+    margin-left: 5%;
+    box-shadow:1px 1px 5px rgba(0, 0, 0, 0.5); 
+}

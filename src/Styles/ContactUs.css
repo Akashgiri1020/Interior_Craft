@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Mukta);
+
+.ContactUs{
+    padding-left:5%;
+    margin-top:8%;
+    background-color:#F6F4F1;
+    height: 90%;
+    width:100%;
+}
+.ContactUs-body{
+    width: 95%;
+    height: 90%;
+    background-color: white;
+    box-shadow:1px 1px 5px rgba(0, 0, 0, 0.5); 
+    margin-left: 3.5%;
+}
+
+
+.ContactUs-flex{
+    display: flex;
+    /* width: 100%; */
+}
+
+.ContactUs-box-1{
+    border:2px;
+    width: 50%;
+    /* background-color: blue; */
+    /* margin-right: 5%; */
+    margin-left: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    box-shadow:1px 1px 5px rgba(0, 0, 0, 0.5); 
+    background-color: #515151;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.ContactUs-box-2{
+    border:20px solid black;
+    width: 50%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    height:50%;
+    /* margin-right: 5%; */
+    box-shadow:1px 1px 5px rgba(0, 0, 0, 0.5); 
+}
+
+.ContactUs-border-input{
+    border-radius: 8px;
+    padding: 2%;
+    margin: 2%;
+    border-color: #F8F8F8;
+  
+    width:70%
+  }
+
+.ContactUs-box-1 h1{
+    text-align: center;
+    font-family: "Mukta";
+    color: white;
+}
+.ContactUs-form-input{
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+}
+.ContactUs-button{
+    background-color: #CB572C;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: mukta;
+    border-radius: 8px;
+    margin: 2%;
+    /* border-color: #F8F8F8; */
+    color: white;
+    width:70%;
+    height:50px;
+
+    
+}
