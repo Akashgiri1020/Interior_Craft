@@ -1,3 +1,3 @@
-## A responsive navbar for React JS
+## Website of Interior Craft
 ---
-##### Tutorail: https://youtu.be/amf18mxNX18
+#####
